@@ -27,3 +27,4 @@ $content = multiple_threads_request(array(
     'www.sfcservice.com'
 ));
 var_dump($content);
+var_dump($_SERVER);

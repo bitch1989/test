@@ -14,6 +14,6 @@ test
 
 ```
 function() {
-    this  is a test;
+
 }
 ```
